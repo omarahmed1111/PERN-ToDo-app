@@ -34,7 +34,7 @@ psql -h localhost -U postgres
 ```
 4. Now, Execute the commands in *Server/database.sql*
 #### Second Alternative
-If you have on visual studio code the mssql extension. You could simply execute *Server/database.sql* file.
+If you have on visual studio code the mssql extension. You could simply execute *Server/database.sql* file.  
 *Now, your database is setup completlely, you can run the app*.
 
 ## 2. Run the backend
