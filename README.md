@@ -1,6 +1,10 @@
 # Project Description
 A PERN stack website made for managing day to day tasks. The website Implements main CRUD features.
 
+# Demo video
+
+https://youtu.be/q8Rv2O-r1wA
+
 # Development Technologies
 * HTML5
 * CSS3
@@ -51,6 +55,4 @@ npm install
 npm start
 ```
 
-# Illustrative video
 
-https://youtu.be/q8Rv2O-r1wA
